@@ -1,4 +1,7 @@
 ## Exercícios de aula
+```c
+DISCLAIMER: deletei tudo sem querer e agora to reupando
+```
 
 Aqui, salvarei exercícios feitos nas aulas da UFSM ou em cursos online.
 
