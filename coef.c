@@ -1,6 +1,9 @@
 #include <stdio.h>
 #include <math.h>
 
+// É PRA SER um código pra achar o coeficiente de correlação entre n variáveis inseridas pelo user. 
+// Como não tenho tanto conhecimento assim de estatística, não testei o suficiente pra saber se está certo ainda
+
 double mean(double values[], int size) {
 double sum = 0;
 for (int i = 0; i < size; i++) {
